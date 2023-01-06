@@ -1,6 +1,7 @@
 # repo
 
-A note taking application
+A note taking application using flutter.
+Learn flutter basic widgets, asynchronus programming in dart and sqllite database access
 
 ## Getting Started
 
